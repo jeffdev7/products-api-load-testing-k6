@@ -1,4 +1,6 @@
 # Load testing with K6
+<p>Load tests have been done to the <a href="https://github.com/jeffdev7/products-api">product-api</a></p>
+
 ### Get All Products
 ![image](https://github.com/user-attachments/assets/a8831d85-dc7e-418d-818e-4781bc888024)
 
